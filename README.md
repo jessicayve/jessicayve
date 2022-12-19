@@ -4,4 +4,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jessicayve&theme=radical)](https://git.io/streak-stats)
 
-[https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white](https://camo.githubusercontent.com/60155f4543422e46101b7edb0fc701c872d9190b23dc33cb47bd1ac15d80dec1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d3233393132303f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
+<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
