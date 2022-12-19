@@ -4,3 +4,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jessicayve&theme=radical)](https://git.io/streak-stats)
 
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
