@@ -4,5 +4,3 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jessicayve&theme=radical)](https://git.io/streak-stats)
 
-
-![Snake animation](https://github.com/jessicayve/jessicayve/blob/output/github-contribution-grid-snake.svg)
