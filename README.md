@@ -6,7 +6,6 @@
 
 
 
-!\[my badge\]([https://badgen.net/badge/hello/world/red?icon=twitter](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E))
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jessicayve&theme=radical)](https://git.io/streak-stats)
 
