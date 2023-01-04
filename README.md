@@ -4,7 +4,7 @@
 
 
 
-![Logo 500x500 px (1)](https://user-images.githubusercontent.com/111311228/210570304-b8cd619d-32c2-4356-b210-98fbeedea343.gif)
+
 
 
 
