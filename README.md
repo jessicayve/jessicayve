@@ -9,7 +9,8 @@
 <img  width="350" src="https://user-images.githubusercontent.com/111311228/210553289-f1246356-1a21-4504-bf18-b3c522d1745e.png"/>
   </div>
 
-
+<hr>
+<br>
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jessicayve&theme=radical)](https://git.io/streak-stats)
