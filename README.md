@@ -2,8 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&pause=1000&color=F72761&width=435&lines=Hiya%F0%9F%91%8B+My+name+is+Jessica+Yve+;I'm+33+years+old+and+from+Brazil;Welcome+to+my+Github+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+![Logo 500x500 px](https://user-images.githubusercontent.com/111311228/210568688-5a69e85b-a3cd-4248-a0d0-804ce2b7acae.gif)
 
-  <div class="vista-create-share" data-vista-create-id="63b57b16d2a435031b2c0fe1"></div><script type="text/javascript" src="https://static.create.vista.com/js/embedded_v1.min.js?v=1.244.3" async></script>
+
 
 <hr>
 <br>
