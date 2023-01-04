@@ -9,3 +9,4 @@
 <img src="{[BadgeURLHere](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white
 )}" />
 
+![snake gif](https://github.com/jessicayve/jessicayve/blob/output/github-contribution-grid-snake.svg)
