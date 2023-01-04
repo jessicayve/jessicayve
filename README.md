@@ -4,7 +4,9 @@
 
 
 
-![octocat-1671466753728](https://user-images.githubusercontent.com/111311228/210553289-f1246356-1a21-4504-bf18-b3c522d1745e.png{:height="50%" width="50%"})
+![octocat-1671466753728](https://user-images.githubusercontent.com/111311228/210553289-f1246356-1a21-4504-bf18-b3c522d1745e.png)
+
+<img width="100" src="https://user-images.githubusercontent.com/111311228/210553289-f1246356-1a21-4504-bf18-b3c522d1745e.png"/>
 
 
 
