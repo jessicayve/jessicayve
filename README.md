@@ -5,15 +5,13 @@
 
 ![octocat-1671466753728](https://user-images.githubusercontent.com/111311228/210553289-f1246356-1a21-4504-bf18-b3c522d1745e.png)
 
-<img src="https://user-images.githubusercontent.com/111311228/210553289-f1246356-1a21-4504-bf18-b3c522d1745e.png"width="100" height="100">
+
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jessicayve&theme=radical)](https://git.io/streak-stats)
 
 
 
-
-<img src="{(https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)}" />
 
 <img src="{[BadgeURLHere](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white
 )}" />
