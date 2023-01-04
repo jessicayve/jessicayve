@@ -5,8 +5,9 @@
 
 
 
-
-<img align="center" width="350" src="https://user-images.githubusercontent.com/111311228/210553289-f1246356-1a21-4504-bf18-b3c522d1745e.png"/>
+<div align="center">
+<img  width="350" src="https://user-images.githubusercontent.com/111311228/210553289-f1246356-1a21-4504-bf18-b3c522d1745e.png"/>
+  </div>
 
 
 
