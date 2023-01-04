@@ -16,8 +16,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jessicayve&theme=radical)](https://git.io/streak-stats)
 
 
-![snake gif](https://github.com/jessicayve/jessicayve/blob/output/github-contribution-grid-snake.svg)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jessica-yve-31814125) 
 # 💻 Tech Stack:
@@ -33,4 +31,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=jessicayve&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/jessicayve/jessicayve/blob/output/github-contribution-grid-snake.svg)
