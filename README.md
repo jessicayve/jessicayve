@@ -38,8 +38,7 @@
 
 
 
-![snake gif](https://github.com/jessicayve/jessicayve/blob/output/github-contribution-grid-snake.svg)
-  <br>
+
   
   <div id="header" align="center">
   <img src="https://media.giphy.com/media/ehIc2Rb3HRrb1YiQBr/giphy.gif" width="200"/>
