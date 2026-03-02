@@ -26,7 +26,7 @@
 [![](https://visitcount.itsvg.in/api?id=jessicayve&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yvejessica&show_icons=true&theme=radical)
 
 
 
