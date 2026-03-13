@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-ff33cc?style=for-the-badge)](https://jessicayve.dev)
 
-<br><br>
+<br>
 
 ### 🌐 Website
 
