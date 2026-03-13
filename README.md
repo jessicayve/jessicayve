@@ -16,9 +16,6 @@
 
 <br><br>
 
-<a href="https://jessicayve.dev">
-<img src="https://image.thum.io/get/width/900/https://jessicayve.dev" />
-</a>
 
 <br><br><br>
 
