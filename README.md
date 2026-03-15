@@ -75,7 +75,7 @@ I enjoy designing interfaces, structuring frontend architecture and building int
 
 <br><br><br>
 
-
+<div align="center">
 
 # 📊 GitHub Stats
 
