@@ -155,7 +155,7 @@ Responsive developer portfolio showcasing projects and frontend architecture.
 
 [![](https://visitcount.itsvg.in/api?id=jessicayve&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br><br>
+
 
 <img src="https://media.giphy.com/media/ehIc2Rb3HRrb1YiQBr/giphy.gif" width="200"/>
 
