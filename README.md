@@ -76,33 +76,6 @@ I enjoy designing interfaces, structuring frontend architecture and building int
 <br><br><br>
 
 
-<div align="center">
-
-# 🚀 Featured Projects
-
-### T4LK — Dev Collaboration Platform
-
-Developer workspace designed for small teams with chat, task boards and team planning tools.
-
-<br>
-
-### Flower e-Shop
-
-Modern ecommerce interface with filtering, authentication and cart functionality.
-
-<br>
-
-### Personal Portfolio
-
-Responsive developer portfolio showcasing projects and frontend architecture.
-
-</div>
-
-
-<br><br><br>
-
-
-<div align="center">
 
 # 📊 GitHub Stats
 
@@ -115,7 +88,6 @@ Responsive developer portfolio showcasing projects and frontend architecture.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jessicayve&theme=radical" />
 
 </div>
-
 
 <br><br><br>
 
