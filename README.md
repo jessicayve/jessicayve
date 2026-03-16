@@ -27,10 +27,9 @@
 
 # 🚀 About Me
 
-I build responsive, modern and user-focused web applications with strong attention to usability, visual hierarchy and clean interface design.
+Software developer building modern web applications with React, TypeScript and scalable frontend architectures.
 
-I enjoy designing interfaces, structuring frontend architecture and building interactive web experiences.
-
+I enjoy turning ideas into real products, integrating APIs and databases, and continuously improving code quality, performance and user experience.
 </div>
 
 
